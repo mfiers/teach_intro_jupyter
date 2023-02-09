@@ -21,7 +21,7 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/mfiers/intro_jupypter
+  url: https://github.com/mfiers/teach_intro_jupyter
   #path_to_book: docs  # Optional path to your book, relative to the repository root
   branch: main
 
@@ -34,3 +34,9 @@ html:
  # The URL for your JupyterHub. (e.g., https://datahub.berkeley.edu)
 launch_buttons:
   jupyterhub_url: "https://jupyter.gbiomed.kuleuven.be/"
+
+   Information about where the book exists on the web
+repository:
+  url                       : https://github.com/mfiers/intro_jupypter
+  path_to_book              : path/to/book  # Optional path to your book, relative to the repository root
+  branch                    : master  # Which branch of the repository should be used when creating links (optional)
